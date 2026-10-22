@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AzureTableContext.Tests/AzureTableContext.Tests.csproj" />
+  <Project Path="AzureTableContext/AzureTableContext.csproj" />
+</Solution>

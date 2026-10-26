@@ -8,7 +8,7 @@
 	  <Authors>Vignesh Pandian</Authors>
 	  <Description>EF-style context for Azure Table Storage</Description>
 	  <RepositoryUrl>https://github.com/vigneshpandian/AzureTable.EF</RepositoryUrl>
-	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	 
   </PropertyGroup>
 
   <ItemGroup>

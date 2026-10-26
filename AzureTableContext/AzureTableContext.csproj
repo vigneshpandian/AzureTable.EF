@@ -8,10 +8,11 @@
 	  <Authors>Vignesh Pandian</Authors>
 	  <Description>EF-style context for Azure Table Storage</Description>
 	  <RepositoryUrl>https://github.com/vigneshpandian/AzureTable.EF</RepositoryUrl>
-	 
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
+	  <None Include="..\README.md" Pack="true" PackagePath="\" />
     <PackageReference Include="Azure.Data.Tables" Version="12.13.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.13" />
   </ItemGroup>
